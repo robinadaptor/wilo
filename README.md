@@ -7,14 +7,13 @@ Wilo is a 100% pure POS system. And Wilo is operated by community.
 ***
 ## Specification  
   
-coin symbol : WILO  
-algorithm : Quark  
-block reward : staking 30%, masternode 70%  
-5000 WILO required coins for masternode  
-blocktime : 60 sec  
-port : 23998, rpcport : 23999  
-total supply : infinite  
-genesis date : 11th May, 2018  
+* coin symbol : WILO  
+* algorithm : Quark  
+* 5000 WILO required coins for masternode  
+* blocktime : 60 sec  
+* port : 23998, rpcport : 23999  
+* genesis date : 11th May, 2018  
+* block reward : staking 30%, masternode 70%
   
 ***
 ## Official Link  
@@ -39,7 +38,7 @@ sales market : [`https://robinadaptor.github.io/sales`](https://robinadaptor.git
 ***
 ## History  
   
-2018, 11th May, Wilo opened the blockchain by the wilo team (unknown).  
+2018, 11th May, Wilo team (unknown) opened the blockchain.  
 2018, Oct, After a short time, the listing was abolished on graviex exchanges. and then it has been managed by the community.  
 2019, July, Now Wilo is officially managed by Robin Project and community members.  
 
