@@ -28,11 +28,12 @@ sales market : [`https://robinadaptor.github.io/sales`](https://robinadaptor.git
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Staking</th>
-<tr><td>Premine</td><td align="center">1</td><td align="right">200,000 WILO</td><td align="center"></td><td align="center"></td></tr>
-<tr><td>Phase 1</td><td align="center">2-4000</td><td align="right">1 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
-<tr><td>Phase 2</td><td align="center">4001-8000</td><td align="right">100 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
-<tr><td>Phase 3</td><td align="center">8001-12000</td><td align="right">140 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
-<tr><td>Phase 4</td><td align="center">12001-infinite</td><td align="right">200 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
+<tr><td>Phase 0</td><td align="center">1</td><td align="right">200 WILO</td><td align="center"></td><td align="center"></td></tr>
+<tr><td>Premine</td><td align="center">2</td><td align="right">200,000 WILO</td><td align="center"></td><td align="center"></td></tr>
+<tr><td>Phase 1</td><td align="center">3-4001</td><td align="right">1 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
+<tr><td>Phase 2</td><td align="center">4002-8001</td><td align="right">100 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
+<tr><td>Phase 3</td><td align="center">8002-12001</td><td align="right">140 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
+<tr><td>Phase 4</td><td align="center">12002-infinite</td><td align="right">200 WILO</td><td align="center">70%</td><td align="center">30%</td></tr>
 </table>
    
 ***
