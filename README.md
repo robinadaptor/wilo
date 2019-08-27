@@ -19,7 +19,7 @@ Wilo is a 100% pure POS system. And Wilo is operated by community.
 ## Official Link  
 
 paper wallet : [`https://robinadaptor.github.io/wilo/wallet`](https://robinadaptor.github.io/wilo/wallet)   
-sales market : [`https://robinadaptor.github.io/sales`](https://robinadaptor.github.io/sales)   
+swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.github.io/swapbot)   
   
 [`wallet`](https://github.com/robinadaptor/wilo/releases)   
   
