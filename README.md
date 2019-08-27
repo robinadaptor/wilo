@@ -8,7 +8,7 @@ Wilo is a 100% pure POS system. And Wilo is operated by community.
 ## Specification  
   
 * asset symbol : WILO  
-* blockchain algorithm : Quark  
+* hashing algorithm : Quark  
 * consensus algorithm : proof of stake  
 * 5000 WILO required asset for masternode  
 * blocktime : 60 sec  
