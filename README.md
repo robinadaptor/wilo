@@ -7,9 +7,10 @@ Wilo is a 100% pure POS system. And Wilo is operated by community.
 ***
 ## Specification  
   
-* coin symbol : WILO  
-* algorithm : Quark  
-* 5000 WILO required coins for masternode  
+* asset symbol : WILO  
+* blockchain algorithm : Quark  
+* consensus algorithm : proof of stake  
+* 5000 WILO required asset for masternode  
 * blocktime : 60 sec  
 * port : 23998, rpcport : 23999  
 * genesis date : 11th May, 2018  
