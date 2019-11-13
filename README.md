@@ -24,7 +24,7 @@ swap bot : [`https://robinadaptor.github.io/swapbot`](https://robinadaptor.githu
 exchange : [`https://robinadaptor.github.io/chamber`](https://robinadaptor.github.io/chamber)    
 coinlib : [`https://coinlib.io/coin/WILO/Wilo`](https://coinlib.io/coin/WILO/Wilo)  
   
-[`wallet`](https://github.com/robinadaptor/wilo/releases) [`source`](https://github.com/robinadaptor/wilo) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor) [`bitcointalk`](https://bitcointalk.org/index.php?topic=5200523)                     
+[`wallet`](https://github.com/robinadaptor/wilo/releases) [`source`](https://github.com/robinadaptor/wilo) [`discord`](https://discord.gg/zYvFFJU) [`twitter`](https://twitter.com/robinadaptor)          
   
 ***
 ## Reward Policy  
