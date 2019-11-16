@@ -42,8 +42,7 @@ coinlib : [`https://coinlib.io/coin/WILO/Wilo`](https://coinlib.io/coin/WILO/Wil
 ***
 ## History  
   
-2018, 11th May, Wilo team (unknown) opened the blockchain.  
-2018, Oct, After a short time, the listing was abolished on graviex exchanges. and then it has been managed by the community.  
+2018, 11th May, Wilo team (unknown) opened the blockchain.   
 2019, July, Wilo is officially managed by Robin Project and community members.  
 2019, Nov, Wilo is listed on Chamber Ex.  
 
